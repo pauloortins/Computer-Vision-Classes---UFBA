@@ -1,0 +1,6 @@
+[orange.canvas.help]
+intersphinx = Orange.OrangeWidgets:intersphinx
+
+[gui_scripts]
+orange-canvas = Orange.OrangeCanvas.main:main
+
